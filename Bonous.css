@@ -1,0 +1,23 @@
+#say {
+
+  font-style: normal;
+  color: yello;
+
+}
+
+#alert {
+	color: red;
+
+}
+
+#submit {
+
+   	background-color: skyblue;
+    color: green;
+    border: red;
+
+
+}
+.isvalid{
+	border-color: red;
+}
